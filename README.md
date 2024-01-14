@@ -42,7 +42,7 @@ Ini adalah implementasi sederhana dari permainan klasik Tic Tac Toe dalam bahasa
 ## Fitur
 
 - Papan ditampilkan setelah setiap langkah.
-- Validasi input memastikan bahwa pemain memasukkan posisi yang valid (1-9).
+- Validasi input memastikan bahwa pemain memasukkan posisi yang valid 'ketik angka di keyboard (1-9)'.
 - Permainan mengumumkan pemenang atau seri ketika permainan berakhir.
 
 ~ Thoyyib Hasonangan S
